@@ -1,0 +1,1 @@
+Atividade prática para criação de uma loja virtual em Python da disciplina de Raciocínio Computacional do curso de Análise e Desenvolvimento de Sistemas da PUC-PR.
